@@ -1,0 +1,14 @@
+{
+    "manifest_version" : 2,
+    "name" : "hello ",
+    "version": "2.0",
+    "description" :"A he;lo world",
+    "icon":{
+        "128": "test-tube.png",
+        "48":"test-tube.png"
+    },
+    "browser_action":{
+        "default_icon":"test-tube.png",
+        "default_popup":"popup.html"
+    }
+}
